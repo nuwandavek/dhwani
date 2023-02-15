@@ -1,0 +1,3 @@
+.ipynb_checkpoints/*
+*.wav
+__pycache__/*
