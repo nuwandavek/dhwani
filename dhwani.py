@@ -6,7 +6,7 @@ from TTS.api import TTS
 from typing import Union
 
 IGNORE_IDS = ['nav', 'TableOfContents', 'nav-footer']
-IGNORE_ELEMENTS = ['img', 'figcaption', 'nav']
+IGNORE_ELEMENTS = ['img', 'figcaption', 'nav', 'audio']
 FILTERED_ELEMENTS = ["h1", "h2", "h3", "h4", "p", "ul", "ol"]
 
 SCRIPT_BEGIN = "This audio version of the blog post is auto generated. For tables and images, check out the website."
