@@ -24,5 +24,5 @@ optional arguments:
 ```
 ## Example
 ```
-python dhwani/dhwani.py audio --html-loc <path-to-html-file/hugo post dir> --audio-script-loc resources/audio_scripts --audio-loc resources/audios
+python dhwani/dhwani.py audio --html-loc <path-to-html-file/hugo post dir> --audio-script-loc static/audio_scripts --audio-loc static/audios
 ```
